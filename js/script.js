@@ -6,7 +6,6 @@ const divExpleriencia   = document.querySelectorAll(".experience_content div");
 const liExpleriencia    = document.querySelectorAll(".experience_content ul li");
 const divEducation      = document.querySelectorAll(".education_content div");
 const liEducation       = document.querySelectorAll(".education_content ul li");
-
 // função para digitalizar uma letra de cada vez
 function escrevendoLetra() {
   function ativaletra(elemento) {
